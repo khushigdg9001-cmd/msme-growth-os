@@ -152,7 +152,7 @@ Inventory • Finance • Compliance • CRM
 | ---------------- | ------------------------------------------------------------------ |
 | **Frontend**     | React, Vite, JavaScript (ES6+), Tailwind CSS, Framer Motion, jsPDF |
 | **Backend**      | Python, FastAPI, Uvicorn                                           |
-| **AI**           | AI CEO, Multi-Agent Architecture, Decision Engine                  |
+| **AI**           | AI CEO, Multi-Agent Architecture, Decision Engine, langraph                  |
 | **Architecture** | Clean Architecture, Domain-Driven Design (DDD)                     |
 
 ---
